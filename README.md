@@ -1,6 +1,6 @@
+<!--
 ![SquidSinker's GitHub stats](https://github-readme-stats.vercel.app/api?username=SquidSinker&show_icons=true&theme=onedark)
 
-<!--
 **SquidSinker/SquidSinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tgojnkkq6b2gcuf05mt5ez2uw&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=tgojnkkq6b2gcuf05mt5ez2uw&redirect=true)
